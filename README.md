@@ -15,14 +15,6 @@ A beautiful and minimal Flutter app to manage your daily tasks with support for 
 
 ---
 
-## 📱 Screenshots
-
-| Light Mode               | Dark Mode                |
-| ------------------------ | ------------------------ |
-| *(add screenshots here)* | *(add screenshots here)* |
-
----
-
 ## 💠 Technologies Used
 
 * **Flutter** & Dart
@@ -37,7 +29,7 @@ A beautiful and minimal Flutter app to manage your daily tasks with support for 
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/yourusername/task-manager-app.git
+   git clone https://github.com/rishivejani15/task-manager-app.git
    cd task-manager-app
    ```
 
