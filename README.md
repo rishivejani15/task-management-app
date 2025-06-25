@@ -11,14 +11,6 @@ A beautiful and minimal Flutter app to manage your daily tasks with support for 
 - ⚡ **State Management with BLoC**
 - 💾 **Local Storage using Hive**
 
-## 📱 Screenshots
-
-| Light Mode | Dark Mode |
-|------------|-----------|
-| ![Light](screenshots/light.png) | ![Dark](screenshots/dark.png) |
-
-> *(Add actual screenshots in a `screenshots/` folder in your repo)*
-
 ---
 
 ## 🛠️ Technologies Used
