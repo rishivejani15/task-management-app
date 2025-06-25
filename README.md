@@ -1,4 +1,4 @@
-# 📝 Task Manager App
+# 📝 Task Management App
 
 A beautiful and minimal Flutter app to manage your daily tasks with support for local storage, dark mode, and modern UI.
 
@@ -29,7 +29,7 @@ A beautiful and minimal Flutter app to manage your daily tasks with support for 
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/rishivejani15/task-manager-app.git
+   git clone https://github.com/rishivejani15/task-management-app.git
    cd task-manager-app
    ```
 
@@ -80,6 +80,6 @@ This project is open-source and available under the **MIT License**.
 
 ## 🙇‍♂️ Author
 
-**Rishi Dhanesh Vejani**
+**Rishi Vejani**
 
 Feel free to fork, improve, and contribute!
