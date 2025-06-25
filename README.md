@@ -1,16 +1,39 @@
-# collateral
+# 📝 Task Manager App
 
-A new Flutter project.
+A beautiful and minimal Flutter app to manage your daily tasks with support for local storage, dark mode, and modern UI.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 📝 **Add Tasks Easily**
+- ✅ **Mark Tasks as Completed**
+- 🗑️ **Delete Tasks**
+- 🌗 **Light & Dark Mode Support**
+- ⚡ **State Management with BLoC**
+- 💾 **Local Storage using Hive**
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Light Mode | Dark Mode |
+|------------|-----------|
+| ![Light](screenshots/light.png) | ![Dark](screenshots/dark.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> *(Add actual screenshots in a `screenshots/` folder in your repo)*
+
+---
+
+## 🛠️ Technologies Used
+
+- **Flutter** & Dart 🐦
+- **flutter_bloc** for state management
+- **Hive** for local persistent storage
+- **Material 3** UI with Light & Dark themes
+
+---
+
+## 📦 Getting Started
+
+1. **Clone the repo**
+
+   ```bash
+   git clone https://github.com/yourusername/task_manager_flutter.git
+   cd task_manager_flutter
